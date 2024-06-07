@@ -78,6 +78,10 @@ function App(): React.JSX.Element {
         <Text style={{fontSize:20, color:'white'}} > Today's Icon and Splash app</Text>
         <Text>This line is added in the features/FirstScreen branch </Text>
         <Text>MainBranch --- Changes1</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
      </View>
    
   );
