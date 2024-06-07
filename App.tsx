@@ -79,6 +79,11 @@ function App(): React.JSX.Element {
         <Text>This line is added in the features/FirstScreen branch </Text>
         {/* Remove the Line from here */}
         <Text>First Screen changes --</Text>
+        <Text>MainBranch --- Changes1</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
      </View>
    
   );
