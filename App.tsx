@@ -77,6 +77,8 @@ function App(): React.JSX.Element {
      <View style={{flex:1,backgroundColor:'blue', justifyContent:'center', alignItems:'center'}}>
         <Text style={{fontSize:20, color:'white'}} > Today's Icon and Splash app</Text>
         <Text>This line is added in the features/FirstScreen branch </Text>
+        {/* Remove the Line from here */}
+        <Text>First Screen changes --</Text>
         <Text>MainBranch --- Changes1</Text>
         <Text> SecondBrnach ---- Changes in file</Text>
         <Text> SecondBrnach ---- Changes in file</Text>
