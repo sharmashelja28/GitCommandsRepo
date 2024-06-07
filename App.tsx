@@ -84,6 +84,11 @@ function App(): React.JSX.Element {
         <Text> SecondBrnach ---- Changes in file</Text>
         {/* Remove the Line from here */}
         <Text>First Screen changes --</Text>
+        <Text>MainBranch --- Changes1</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
+        <Text> SecondBrnach ---- Changes in file</Text>
      </View>
    
   );
