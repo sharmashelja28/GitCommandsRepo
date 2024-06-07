@@ -77,7 +77,7 @@ function App(): React.JSX.Element {
      <View style={{flex:1,backgroundColor:'blue', justifyContent:'center', alignItems:'center'}}>
         <Text style={{fontSize:20, color:'white'}} > Today's Icon and Splash app</Text>
         <Text>This line is added in the features/FirstScreen branch </Text>
-        <Text>MainBranch --- Changes1</Text>
+        {/* Remove the Line from here */}
      </View>
    
   );
