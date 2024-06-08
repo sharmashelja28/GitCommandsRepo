@@ -5,6 +5,7 @@ const PageTwo = () => {
   return (
     <View>
       <Text>PageTwo</Text>
+      <Text>Main Page second line</Text>
     </View>
   )
 }
