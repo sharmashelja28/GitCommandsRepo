@@ -6,6 +6,7 @@ export default function MainPage() {
     <View>
       <Text>MainPage</Text>
       
+      <Text>Main Page second line value is this</Text>
     </View>
   )
 }
